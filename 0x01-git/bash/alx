@@ -1,0 +1,3 @@
+echo "ALX" > bash/alx
+ls
+echo echo ALX
